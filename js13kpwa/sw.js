@@ -1,4 +1,5 @@
-self.importScripts('data/games.js');
+// self.importScripts('data/games.js');
+import games from './data/games.js'
 
 // Files to cache
 var cacheName = 'js13kPWA-v1';
