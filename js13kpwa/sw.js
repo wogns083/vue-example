@@ -1,6 +1,5 @@
 // self.importScripts('data/games.js');
 import games from './data/games.js'
-
 // Files to cache
 var cacheName = 'js13kPWA-v1';
 var appShellFiles = [
@@ -23,7 +22,6 @@ var appShellFiles = [
   '/vue-example/js13kpwa/icons/icon-256.png',
   '/vue-example/js13kpwa/icons/icon-512.png'
 ];
-
 var gamesImages = [];
 for(var i=0; i<games.length; i++) {
   gamesImages.push('data/img/'+games[i].slug+'.jpg');
