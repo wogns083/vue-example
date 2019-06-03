@@ -6,7 +6,7 @@ var appShellFiles = [
   '/vue-example/js13kpwa/',
   '/vue-example/js13kpwa/index.html',
   '/vue-example/js13kpwa/app.js',
-  '/vue-example/js13kpwa/astyle.css',
+  '/vue-example/js13kpwa/style.css',
   '/vue-example/js13kpwa/fonts/graduate.eot',
   '/vue-example/js13kpwa/fonts/graduate.ttf',
   '/vue-example/js13kpwa/fonts/graduate.woff',
